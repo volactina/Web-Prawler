@@ -52,3 +52,12 @@ def retrieve_dji_list():
 dji_list = retrieve_dji_list()
 
 print(dji_list)
+
+ex4
+
+请爬取网页
+
+http://www.volleyball.world/en/vnl/women/results-and-ranking/round1
+
+上的数据（包括TEAMS and TOTAL, WON, LOST of MATCHES）
+
